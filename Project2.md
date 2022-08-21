@@ -12,6 +12,9 @@ Project 2
 
 •	After creating your User click next. Create a Password select next then finish
 
+<img width="869" alt="Adding User to AD" src="https://user-images.githubusercontent.com/103763124/185810364-691e2a22-be55-4c8d-988e-fb34c3f5c766.png">
+
+
 Adding a User in Active Directory Users and Computers using PowerShell
 
 •	Search PowerShell from the taskbar then right click on PowerShell and run as admin
@@ -104,7 +107,6 @@ Add-ADGroupMember -Identity “Enter the Group’s Name”
 -Members “Enter the Member’s login Name” 
 (To add multiple Members use a common after the First Member and type the next Member after it)
 
-<img width="869" alt="Adding User to AD" src="https://user-images.githubusercontent.com/103763124/185810364-691e2a22-be55-4c8d-988e-fb34c3f5c766.png">
 
 
 <img width="865" alt="Adding User in AD using PowerShell" src="https://user-images.githubusercontent.com/103763124/185810380-8f61aa72-2956-4cee-bcf7-249f41fde56e.png">
