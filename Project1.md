@@ -44,7 +44,7 @@ PROJECT 1
 12	- Click on the start menu and expand the Exchange Folder Sever 2019 and select Exchange Administrative Center and login
 
 
-<img width="555" alt="Windows Server 2022 Installation" src="https://user-images.githubusercontent.com/103763124/185809379-a26cfde3-0f2a-4b1e-80a4-356b90f220b2.png">
+<img width="300" alt="Windows Server 2022 Installation" src="https://user-images.githubusercontent.com/103763124/185809379-a26cfde3-0f2a-4b1e-80a4-356b90f220b2.png">
 
 <img width="837" alt="Installation of AD DS" src="https://user-images.githubusercontent.com/103763124/185810048-0e9b6ad9-1821-4710-83f3-09119eee6205.png">
 
