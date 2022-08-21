@@ -44,10 +44,10 @@ PROJECT 1
 12	- Click on the start menu and expand the Exchange Folder Sever 2019 and select Exchange Administrative Center and login
 
 
-<img width="500" alt="Windows Server 2022 Installation" src="https://user-images.githubusercontent.com/103763124/185809379-a26cfde3-0f2a-4b1e-80a4-356b90f220b2.png">
+<img width="700" alt="Windows Server 2022 Installation" src="https://user-images.githubusercontent.com/103763124/185809379-a26cfde3-0f2a-4b1e-80a4-356b90f220b2.png">
 
-<img width="500" alt="Installation of AD DS" src="https://user-images.githubusercontent.com/103763124/185810048-0e9b6ad9-1821-4710-83f3-09119eee6205.png">
+<img width="700" alt="Installation of AD DS" src="https://user-images.githubusercontent.com/103763124/185810048-0e9b6ad9-1821-4710-83f3-09119eee6205.png">
 
-<img width="500" alt="Installation of Exchange Server 2019" src="https://user-images.githubusercontent.com/103763124/185810069-5fd42893-4ca1-4b46-9b36-5c1b81698ef2.png">
+<img width="700" alt="Installation of Exchange Server 2019" src="https://user-images.githubusercontent.com/103763124/185810069-5fd42893-4ca1-4b46-9b36-5c1b81698ef2.png">
 
-<img width="500" alt="Exchange Server 2019" src="https://user-images.githubusercontent.com/103763124/185810089-b751148d-c4bc-4704-a578-376c030486dc.png">
+<img width="700" alt="Exchange Server 2019" src="https://user-images.githubusercontent.com/103763124/185810089-b751148d-c4bc-4704-a578-376c030486dc.png">
