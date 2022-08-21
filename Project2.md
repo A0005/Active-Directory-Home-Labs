@@ -94,7 +94,7 @@ Method 2
 
 •	Select Apply and then OK
 
-4 - Adding a User to a Group in Active Directory Users and Computers using PowerShell
+Adding a User to a Group in Active Directory Users and Computers using PowerShell
 
 •	Search PowerShell from the taskbar right click on PowerShell and run as admin
 
