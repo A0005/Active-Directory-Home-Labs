@@ -23,10 +23,15 @@ PROJECT 1
 •	Installation Commands for Exchange Server 2019
 
    1-	Open PowerShell and run as Administrator
+   
    2-	Change into the directory that Exchange Server was uploaded to for example type d: 
+   
    3-	Type Install-WindowsFeature RSAT-ADDS
+   
    5-	Preparing Schema Type .\setup /PrepareSchema /IAcceptExchangeServerLicenseTerms
+   
    6-	Preparing Active Directory Type .\setup /Preparead /IAcceptExchangeServerLicenseTerms /OrganizationName:"COMPANY"
+   
    7-	Preparing Domain Type .\setup /Preparedomain /IAcceptExchangeServerLicenseTerms
 
 
