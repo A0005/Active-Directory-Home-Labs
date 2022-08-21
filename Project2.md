@@ -13,7 +13,7 @@ Project 2
 •	After creating your User click next. Create a Password select next then finish
 
 
-<img width="869" alt="Adding User to AD" src="https://user-images.githubusercontent.com/103763124/185810364-691e2a22-be55-4c8d-988e-fb34c3f5c766.png">
+<img width="700" alt="Adding User to AD" src="https://user-images.githubusercontent.com/103763124/185810364-691e2a22-be55-4c8d-988e-fb34c3f5c766.png">
 
 
 2 - Adding a User in Active Directory Users and Computers using PowerShell
