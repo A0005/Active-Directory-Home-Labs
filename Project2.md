@@ -15,6 +15,7 @@ Project 2
 Adding a User in Active Directory Users and Computers using PowerShell
 
 •	Search PowerShell from the taskbar then right click on PowerShell and run as admin
+
 •	Run the following commands
 
 New-ADUser -Name “Define the User’s Full Name”
@@ -29,15 +30,20 @@ New-ADUser -Name “Define the User’s Full Name”
 2 - Creating Groups in Active Directory Users and Computers
 
 •	Open Server Manger
+
 •	Select Tools from the top right and open Active Directory Users and Computers
+
 •	Expand your domain from the left side
+
 •	Right click on the Users folder. Select New then Group
+
 •	Create a Group and select OK
 
 
 Creating Groups in Active Directory Users and Computers using PowerShell
 
 •	Search PowerShell from the taskbar right click on PowerShell and run as admin
+
 •	Run the following commands
 
 New-ADGroup -Name “Group’s Name”
@@ -50,31 +56,48 @@ New-ADGroup -Name “Group’s Name”
 Method 1
 
 •	Open Server Manger
+
 •	Select Tools from the top right and open Active Directory Users and Computers
+
 •	Expand your domain and from the left side
+
 •	Double Click on the Users Folder
+
 •	On the right side double click on the User’s name
+
 •	Select (Member of) from the top bar
+
 •	Select Add
+
 •	Enter the Group’s name and select OK
+
 •	Select Apply and then OK
 
 Method 2
 
 
 •	Open Server Manger
+
 •	Select Tools from the top right and open Active Directory Users and Computers
+
 •	Expand your domain and from the left side
+
 •	Double Click on the Users Folder
+
 •	On the right side double click on the Group’s name
+
 •	Select (Members) from the top bar
+
 •	Select Add
+
 •	Enter the User’s name and Select OK
+
 •	Select Apply and then OK
 
 4 - Adding a User to a Group in Active Directory Users and Computers using PowerShell
 
 •	Search PowerShell from the taskbar right click on PowerShell and run as admin
+
 •	Run the following commands
    
 Add-ADGroupMember -Identity “Enter the Group’s Name”
