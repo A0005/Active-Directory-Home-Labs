@@ -3,9 +3,13 @@ Project 2
 1 - Adding a User in Active Directory Users and Computers
 
 •	Open Server Manger
+
 •	Select Tools from the top right and open Active Directory Users and Computers
+
 •	Expand your domain from the left side
+
 •	Right click on the Users folder. Select New then User
+
 •	After creating your User click next. Create a Password select next then finish
 
 Adding a User in Active Directory Users and Computers using PowerShell
