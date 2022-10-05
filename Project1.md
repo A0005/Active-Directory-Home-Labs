@@ -13,6 +13,7 @@ This project is about installing Windows Server 2022 on a Virtual Box and adding
 
 <h2>Environments Used </h2>
 
+- <b>Virtual Box</b>
 - <b>Windows Server 2022</b>
 - <b>Exchange Server 2019</b>
 
