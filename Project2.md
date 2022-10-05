@@ -13,6 +13,7 @@ This project is about adding Users in Active Directory and creating Groups. Then
 
 <h2>Environments Used </h2>
 
+- <b>Virtual Box</b>
 - <b>Windows Server 2022</b>
 - <b>Active Directory User and Computers</b>
 
