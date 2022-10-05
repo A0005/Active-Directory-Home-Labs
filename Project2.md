@@ -1,6 +1,6 @@
 <h1>Project 2</h1>
 
-<!-- [YouTube Demonstration](https://www.youtube.com/watch?v=w2bKo3xiEUU) --!>
+
 
 <h2>Description</h2>
 This project is about adding Users in Active Directory and creating Groups. Then adding Users to those Groups all by using different methods.
